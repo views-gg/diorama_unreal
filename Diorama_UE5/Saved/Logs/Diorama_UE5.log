@@ -744,3 +744,26 @@ Recommended: 516.25
 [2022.11.10-12.57.15:865][  4]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
 [2022.11.10-12.57.16:306][  6]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2022.11.10-12.57.16:307][  6]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.11.10-12.58.38:920][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-12.58.38:920][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-12.58.38:921][220]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_0
+[2022.11.10-12.58.38:929][220]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B617FC7AB460F4D337F28632A39285F2CEF2FAFF), compiling. 
+[2022.11.10-12.58.38:930][220]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.0\Engine\Content\BasicShapes\BasicShapeMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+
+[2022.11.10-12.58.38:933][220]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_0
+[2022.11.10-12.58.39:908][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-12.58.39:908][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-12.58.39:909][333]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.11.10-12.58.39:909][333]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.11.10-12.58.39:989][334]LogD3D12RHI: Creating RTPSO with 131 shaders (115 cached, 16 new) took 21.49 ms. Compile time 17.12 ms, link time 4.19 ms.
+[2022.11.10-12.58.46:370][982]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.10-12.58.47:755][132]LogMaterial: Display: Missing cached shadermap for BasicAsset01 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DEF219CA0524B67F152B4532E1CD457AD99DC01), compiling. 
+[2022.11.10-12.58.49:608][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.10-12.58.49:615][216]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.006522 seconds
+[2022.11.10-12.58.49:635][216]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.11.10-12.58.49:637][216]LogSavePackage: Moving '../../../../../../Users/pcaron/Documents/GitHub/diorama_unreal/Diorama_UE5/Saved/Minimal_DefaultAF4B10F14D42C825ABB8439C82D15C54.tmp' to '../../../../../../Users/pcaron/Documents/GitHub/diorama_unreal/Diorama_UE5/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.10-12.58.49:650][216]LogFileHelpers: No new changes to save!
+[2022.11.10-12.58.49:669][216]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.11.10-12.58.49:669][216]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.10-12.58.50:917][298]LogD3D12RHI: Creating RTPSO with 116 shaders (0 cached, 1 new) took 129.56 ms. Compile time 126.24 ms, link time 3.01 ms.
